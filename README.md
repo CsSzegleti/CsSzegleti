@@ -1,5 +1,7 @@
+### 🤓 &nbsp;About me
+
 - 👋 Hi, I’m Csongor Szegleti
-- 💼 Currently I'm working at 4D Soft as full stack developer
+- 💼 Currently I'm working @ <a href="https://www.4dsoft.hu/en/main-page/">4D Soft</a> as full stack developer
 - 👀 I’m interested in microservice architecture
 - 🌱 I’m currently learning cybersecurity and blue team ops
 

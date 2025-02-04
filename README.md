@@ -11,6 +11,8 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=Kotlin&logoColor=FFA518)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=Spring)&nbsp;
 ![Quarkus](https://img.shields.io/badge/-Quarkus-05122A?style=flat&logo=Quarkus)&nbsp;
+![Maven](https://img.shields.io/badge/-Maven-05122A?style=flat&logo=apachemaven)&nbsp;
+![Gradle](https://img.shields.io/badge/-Gradle-05122A?style=flat&logo=gradle)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=Csharp)&nbsp;
 ![C++](https://img.shields.io/badge/C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
